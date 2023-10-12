@@ -1,0 +1,145 @@
+
+.box{
+	height: 100px;
+	background: red;
+	margin-bottom: 5px;
+}
+
+.mh_300{
+	min-height: 500px;
+	background-color: #ddd;
+}
+.banner{
+	width:100%;
+	height: 80vh;
+	background-image: linear-gradient(rgba(0,0,0,0.90),rgba(0,0,0,0.90)), url(coffee.jpg);
+	background-position: center;
+	background-position: center;
+}
+.container2{
+	width: 35%
+	padding:0 auto;
+	overflow: hidden;
+	text-align: center;
+
+}
+.container2 h1{
+	font-family: sans-serif;
+	font-size: 45px;
+	font-weight: 700;
+	color: #fff;
+	margin: 140px 0;
+	display: inline-block;
+	border: 1px solid;
+	background-color: red transparent;
+}
+.cart-items{
+	float: left;
+	align-items: center;
+	margin: 0 30px;
+	font-family: sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	color: #fff;
+	display: inline-block;
+
+}
+.b_img{
+	width:40%;
+	margin:-520px 0;
+	float: right;
+}
+.b_img img{
+	width: 100%;
+}
+.form{
+	padding: 60px 0;
+	font-size: 90px;
+	background-color: white;
+}
+.box{
+	height: 20px;
+	width: 100%;
+	background-color: green;
+	margin: 3px;
+	align-items: center;
+}
+.accordion{
+	background-color: black;
+	color: white;
+}
+.accordion-body{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 22px;
+	color: yellow;
+
+}
+.accordion-body a{
+ align-items: center;
+ margin: 0 300px;
+
+}
+.accordion-body a img{
+	width: 20% 
+
+}
+
+.row{
+	background-color: aqua;
+	height: 80px;
+	margin: 50px;
+	padding: 0 70px;s
+}
+.col{
+	
+	font-size: 27px;
+	
+
+	}
+.p-3{
+color: black;	
+float: left;
+margin: 5px 5px 10px -50px;
+
+
+}
+.inbox{
+	margin: 0 30px;
+}
+
+.row img{
+	width: 4%;
+	float: left;
+	margin: 25px 30px;
+}
+.b_button{
+	float: right;
+	margin: -65px 50px;
+
+}
+.button_img{
+	width: 15%;
+	margin: -181px 0px;
+	float: left;
+	
+
+}
+.button_img img{
+	width: 100%;
+	
+}
+.button1_img{
+	width: 15%;
+	margin: -181px 0px;
+	float: right;
+}
+.button1_img img{
+	width: 100%;
+	
+}
+.p.{
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
